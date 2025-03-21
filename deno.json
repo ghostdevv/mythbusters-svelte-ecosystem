@@ -1,0 +1,5 @@
+{
+    "tasks": {
+        "count-packages": "deno run --allow-net ./scripts/package-counts.ts"
+    }
+}
