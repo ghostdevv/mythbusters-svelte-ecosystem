@@ -5,15 +5,26 @@
 
 ---
 
+1. Let's Learn Svelte 5*
+
+---
+
+1. Let's Learn Svelte 5*
+2. Mythbusting 🔥🔥🔥
+
+---
+
 ## Svelte Crash Course
 
 ---
 
-_live coding here_
+_insert live coding here_
 
 ---
 
 ## Ecosystem
+
+(the mythbusting bit of the mythbusting talk)
 
 ---
 
@@ -53,11 +64,19 @@ _more live coding here_
 
 ---
 
-#### SvelteKit
+![[crazy-plan.png]]
+
+---
+
+![[tooling.png]]
 
 ---
 
 ![[summit.png]]
+
+---
+
+## CityJS <-----
 
 ---
 
